@@ -60,7 +60,7 @@ If you are unable to run `git clone` on your machine, you can instead click on t
 
 ### Alternative way to install required software
 
-If you are unable to run the `conda env create` command above, you can download a "single-file installer" that will deploy a conda installation with all the workshop software into your userspace. The single file installers are in the "Assets" section of the [latest release](https://github.com/openforcefield/2021-benchmarking-workshop/releases) of this repository. This single file installer is installed as follows (this is shown for Bash on Mac, the filenames/source commands will be slightly different on csh/Linux)
+If you are unable to run the `conda env create` command above, you can download a "single-file installer" that will deploy a conda installation with all the workshop software into your userspace. The single file installers are in the "Assets" section of the [latest release](https://github.com/openforcefield/2021-bespokefit-workshop/releases/) of this repository. This single file installer is installed as follows (this is shown for Bash on Mac, the filenames/source commands will be slightly different on csh/Linux)
 
 ```
 bash openff-benchmark-2021.08.04.0-py37-MacOSX-x86_64.sh -b -p ./miniconda3

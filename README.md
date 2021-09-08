@@ -7,7 +7,7 @@ Materials for the 2021 OpenFF Bespokefit workshop.
 #### 1. Clone the repository:
 
 ```
-git clone git@github.com:openforcefield/2021-bespokefit-workshop.git
+git clone https://github.com/openforcefield/2021-bespokefit-workshop.git
 cd 2021-bespokefit-workshop
 ```
 
